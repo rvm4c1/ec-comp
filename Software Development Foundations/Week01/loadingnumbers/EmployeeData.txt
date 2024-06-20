@@ -1,0 +1,28 @@
+Susan,11447, Accounting,Vice President,80000.00
+Jill, 47899, Computing, President,90000.00
+Juan, 33839, Computing, Programmer,35000.00 
+Tomas,54600, HR,Senior Manager,75000.99
+Sergey,32665, Engineering, Information clerk,33000.99
+Magnus, 99566, Accounting,Lead Analyst,45000.50 
+Chen, 88888 , Computing, Head of Testing,50000.00
+Alejandro,94376,Computing, Systems Engineer,44157.44
+Astrid, 12877 , Web Design,Analyst,40000.50,
+Hans, 47299 , Computing, General Manager,60000.00
+Ian,11145,Accounting,Information clerk,34500.00
+Tarek,15557,HR,Senior Manager,82000.00
+Valentina,37663, Engineering, Information clerk,33500.99
+Fabio,23839 , Web Design,Quality Control,38000.75
+Lian, 55600 , Engineering, Supervisor,75000.00
+Haruki,44567,Web Design,Analyst,41550.89
+Jiro,34990,Computing,Senior Manager,70690.98
+Akiro,16883,Engineering,Senior Manager,72444.55
+Dequan,55709,Web Design,Quality Control,35890.77
+Liu,33112,Accounting,Information clerk,32555.80
+Zheng,49937,Accounting,Senior Manager,76777.88
+Sonya,11227,HR,Quality Control,39700.00
+Tatiana,99595,Computing, Programmer,34990.50
+Ivanna,39112,Web Design,Analyst,41222.99
+Nikolai,32654 , HR,Quality Control,38000.75
+Omar, 99556 , Web Design,Quality Control,38000.75
+Eric, 87788 , Web Design,Supervisor,75000.00
+Renee,89988 , Computing, Systems Engineer,42000.00
